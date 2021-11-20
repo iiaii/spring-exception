@@ -1,4 +1,4 @@
-package me.iiaii.springexception.exception;
+package me.iiaii.springexception.exhandler;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
